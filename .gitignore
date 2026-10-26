@@ -1,0 +1,19 @@
+# Contenido del juego (copyright de Konami / canciones con licencia): nunca se sube
+dist/
+build/
+work/
+previews/
+reports/
+*.afs
+*.adx
+*.bin
+*.wav
+*.xbe
+*.iso
+*.qcow2
+*.i64
+*.idb
+KONAMI-WIN32*
+
+__pycache__/
+*.pyc
